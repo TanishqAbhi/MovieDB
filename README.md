@@ -47,8 +47,5 @@ Add screenshots of the application inside a `screenshots` folder in the root of 
 Recommended structure:
 
 ```text
-screenshots/
-├── home.png
-├── popular-movies.png
-├── movie-details.png
-└── search.png
+"C:\Users\tanis\OneDrive\Pictures\Screenshots\Screenshot 2026-11-03 124419.png"
+
