@@ -1,16 +1,54 @@
-# React + Vite
+# 🎬 MovieDB – React Movie Discovery Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern movie discovery web application built with React.js that allows users to explore and discover movie information through a clean and responsive interface.
 
-Currently, two official plugins are available:
+## 📌 Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+MovieDB is a React-based movie discovery application designed to provide users with an intuitive way to browse movie content and explore relevant movie information. The application focuses on a clean user interface, dynamic data rendering, and API-driven movie content.
 
-## React Compiler
+The project demonstrates practical frontend development skills including React component architecture, API integration, asynchronous JavaScript, state management, conditional rendering, responsive UI development, and deployment using Vercel.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project was developed as a hands-on implementation of a real-world React application where the frontend communicates with a movie data API and dynamically renders the received information.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+Based on the project implementation, the application includes/targets the following core functionality:
+
+- 🎬 Movie discovery and browsing
+- 🔥 Popular movie section
+- ⭐ Top-rated movie section
+- 🎞️ Upcoming movie section
+- 🔍 Movie search functionality
+- 📄 Movie information/details
+- 🧭 Application navigation
+- 📱 Responsive user interface
+- 🔄 Dynamic movie data loading
+- 🌐 API-based movie information
+- ⚡ React-based dynamic rendering
+
+> **Note:** If any of the above features are not currently available in the deployed version, remove that item from this list.
+
+---
+
+## 🖥️ Live Demo
+
+### 🚀 [View Live Application](https://movie-db-blue-two.vercel.app/)
+
+The application is deployed using **Vercel** and can be accessed directly from the link above.
+
+---
+
+## 📸 Screenshots
+
+Add screenshots of the application inside a `screenshots` folder in the root of the repository.
+
+Recommended structure:
+
+```text
+screenshots/
+├── home.png
+├── popular-movies.png
+├── movie-details.png
+└── search.png
